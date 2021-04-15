@@ -10,6 +10,6 @@ We see a need for a community effort to:
 
 We expect to apply these general principles first to a well-defined set of open models and practice areas, including network analysis, predictive HW/SW maintenance, and others. This will allow us to test concepts and models at global scale. 
 
-We are also focused on expanding access to the value of AI across enterprises by improving simplicity and usability of the technologies. The customer experience impact of improvements in these areas will provide opportunities to progressively expand the reach of the Enterprise Neurosystem into upstream business domains.
+We are also focused on expanding access to the value of AI across enterprises by improving simplicity and usability of the technologies. The impact of improvements in user experience will provide opportunities to progressively expand the reach of the Enterprise Neurosystem into upstream business domains.
 
 All of the above is developed and prototyped in an Open Source fashion.
