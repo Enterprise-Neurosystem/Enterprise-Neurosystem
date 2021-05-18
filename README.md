@@ -1,4 +1,4 @@
-# Main
+# About
 AI and ML are areas of intense focus and experimentation across a wide range of industries, functional disciplines and operational scale. Yet the concrete expression of the work tends to be extremely organization and/or function-specific, as models are typically trained on relatively narrow and proprietary datasets. 
 
 We see a need for a community effort to:
