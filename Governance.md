@@ -35,7 +35,7 @@ The Governing Board is responsible for setting the strategic direction of the Pr
 
 As a community-led open source project, the majority of work performed to develop and advance the Enterprise Neurosystem and its adoption is expected to be done by community members. This work may take the form of technical contributions as described in the Technical Committee section, as well as non-technical forms of contribution, including gathering feedback from Users, marketing, design, legal review and other activities. Where necessary expertise is not available in the community, the Project or its members may contract with commercial entities, including consultants, for incremental support.
 
-The Governing Board will be composed minimally of a Chair, Treasurer, and the Technical Community Leader/CTO.  The Chair and Treasurer may not be employed by the same organization, and no more than 2 Board members may be from the same organization, including its subsidiaries. The Committee may choose to admit additional members, such as Sector or Vertical representatives or a User Community representative, on either a voting or non-voting basis, under the Voting procedures described below. To ensure operational efficiency, the Board shall be composed of no more than 13 members in total.
+The Governing Board will be composed minimally of a Chair, Vice Chair-Treasurer (a single person), and the Technical Community Leader/CTO.  The Chair and Vice Chair-Treasurer may not be employed by the same organization, and no more than 2 Board members may be from the same organization, including its subsidiaries. The Committee may choose to admit additional members, such as Sector or Vertical representatives or a User Community representative, on either a voting or non-voting basis, under the Voting procedures described below. To ensure operational efficiency, the Board shall be composed of no more than 13 members in total.
 
 The Board may choose to form under its aegis operational workgroups to execute non-technical functions such as marketing, finance, etc, which may be composed of volunteers from the entire project community; such workgroups will report their proposals and activities to the Board.
 
@@ -46,7 +46,7 @@ The Technical Community Voters will elect the Chair by private vote (greatest pl
  * Lead Member company recruitment, with the assistance of other Governing Board and Technical Community members.
  * Regularly attend Technical Committee meetings and work closely with the Technical Community Leader to ensure ongoing alignment between the Governing Board and Technical Community.
 
-The Treasurer will be elected according to the same criteria and process as the Chair. The Treasurer will have the following responsibilities.
+The Vice Chair-Treasurer will be elected according to the same criteria and process as the Chair. The Treasurer will have the following responsibilities.
  * Work with the Board and its workgroups to develop an annual operating plan and budget as needed and report regularly on execution to plan.
  * Advise on and validate operating plan’s budget.
  * Review payments authorized by the Director each month, and report regularly on revenues and expenditures in relation to budget.
