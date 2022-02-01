@@ -39,7 +39,7 @@ The Governing Board will be composed minimally of a Chair, Vice Chair-Treasurer 
 
 The Board may choose to form under its aegis operational workgroups to execute non-technical functions such as marketing, finance, etc, which may be composed of volunteers from the entire project community; such workgroups will report their proposals and activities to the Board.
 
-The Technical Community Voters will elect the Chair by private vote (greatest plurality) according to the Voting procedures listed below. The Chair need not have made technical contributions, but is expected to have demonstrated consistent support for the Project in either a technical or non-technical capacity. The Chair will have the following responsibilities:
+The Community Voters will elect the Chair by private vote (greatest plurality) according to the Voting procedures listed below. The Chair need not have made technical contributions, but is expected to have demonstrated consistent support for the Project in either a technical or non-technical capacity. The Chair will have the following responsibilities:
 
  * Organize and lead regular Board meetings, on a cadence to be agreed by the Board.
  * Authorize payments to third-party vendors in accordance with the Board-approved budget or for expenses approved by majority vote by the Board.
