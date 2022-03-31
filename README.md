@@ -1,7 +1,7 @@
 # About
 AI and ML are areas of intense focus and experimentation across a wide range of industries, functional disciplines and operational scale. Yet the concrete expression of the work tends to be extremely organization and/or function-specific, as models are typically trained on relatively narrow and proprietary datasets. 
 
-We see a need for a community effort to:
+We see a need for an open source community effort to:
 
 * Open up and standardize development of models and adaptive frameworks, using and creating public datasets
 * Tie together various models and data sources across the enterprise in a unified framework
@@ -12,4 +12,4 @@ We expect to apply these general principles first to a well-defined set of open 
 
 We are also focused on expanding access to the value of AI across enterprises by improving simplicity and usability of the technologies. The impact of improvements in user experience will provide opportunities to progressively expand the reach of the Enterprise Neurosystem into upstream business domains.
 
-All of the above is developed and prototyped in an Open Source fashion.
+Community-wide updates are held every other Friday at 4pm GMT/Noon EDT/9am PDT. Contact Bill Wright (bwright@redhat.com) for details.
