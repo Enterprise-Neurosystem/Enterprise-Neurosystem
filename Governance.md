@@ -66,7 +66,7 @@ _Voting Procedures_
  * If a Governing Board Voter misses 4 or more meetings in a row, with or without a proxy, the Governing Board may remove that individual and replace them with someone with greater availability for the remainder of their term.
  * Elections and any other voting decisions require a quorum of 50% of voting members. Voting can be held during Board meetings, or by electronic means within a specified time period.
 
-Amendments to this or Policy documents require a majority vote of the Steering Committee.
+Amendments to this or Policy documents require a majority vote of the Governing Board.
 
 ## Community Assets and Intellectual Property
 
