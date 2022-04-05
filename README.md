@@ -12,5 +12,6 @@ We expect to apply these general principles first to a well-defined set of open 
 
 We are also focused on expanding access to the value of AI across enterprises by improving simplicity and usability of the technologies. The impact of improvements in user experience will provide opportunities to progressively expand the reach of the Enterprise Neurosystem into upstream business domains.
 
-Please subscribe to the Community mailer to participate in asynchronous discussions. https://lists.enterpriseneurosystem.org/admin/lists/community.lists.enterpriseneurosystem.org/ 
+Please subscribe to the Community mailer to participate in asynchronous discussions. https://lists.enterpriseneurosystem.org/admin/lists/community.lists.enterpriseneurosystem.org/
+
 Community-wide live updates are held every other Friday at 4pm GMT/Noon EDT/9am PDT. Contact Bill Wright (bwright@redhat.com) for details.
