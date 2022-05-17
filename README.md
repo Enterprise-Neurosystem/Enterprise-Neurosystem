@@ -4,13 +4,13 @@ AI and ML are areas of intense focus and experimentation across a wide range of 
 We see a need for an open source community effort to:
 
 * Open up and standardize development of models and adaptive frameworks, using and creating public datasets
-* Tie together various models and data sources across the enterprise in a unified framework
-* Abstract prediction and forecasting techniques that can be applied across a range of business domains
-* Eventually apply AI/ML to wide-scale system analysis, using cross-correlation across different domains to intensify business intelligence and accelerate operational responsiveness.
+* Tie together various models and data sources across organizations in a unified framework
+* Abstract prediction and forecasting techniques that can be applied across a range of domains
+* Eventually apply AI/ML to wide-scale system analysis, using cross-correlation across different domains to intensify pattern identification and accelerate operational responsiveness.
 
 We expect to apply these general principles first to a well-defined set of open models and practice areas, including network analysis, predictive HW/SW maintenance, and others. This will allow us to test concepts and models at global scale. 
 
-We are also focused on expanding access to the value of AI across enterprises by improving simplicity and usability of the technologies. The impact of improvements in user experience will provide opportunities to progressively expand the reach of the Enterprise Neurosystem into upstream business domains.
+We are also focused on expanding access to the value of AI by improving simplicity and usability of the technologies. The impact of improvements in user experience will provide opportunities to progressively expand the reach of the Enterprise Neurosystem into new upstream domains, including enterprise, government and global initiatives (e.g., climate change analysis).
 
 Please subscribe to the Community mailer to participate in asynchronous discussions. https://lists.enterpriseneurosystem.org/admin/lists/community.lists.enterpriseneurosystem.org/
 
