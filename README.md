@@ -15,3 +15,5 @@ We are also focused on expanding access to the value of AI by improving simplici
 Please subscribe to the Community mailer to participate in asynchronous discussions. https://lists.enterpriseneurosystem.org/admin/lists/community.lists.enterpriseneurosystem.org/
 
 Community-wide live updates are held every other Friday at 4pm GMT/Noon EDT/9am PDT. Contact Bill Wright (bwright@redhat.com) for details.
+
+[Enterprise Neurosystem 0522 Deck.pptx](https://github.com/Enterprise-Neurosystem/Enterprise-Neurosystem/files/8719460/Enterprise.Neurosystem.0522.Deck.pptx)
