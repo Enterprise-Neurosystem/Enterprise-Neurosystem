@@ -5,7 +5,7 @@ We see a need for an open source community effort to:
 
 * Open up and standardize development of models and adaptive frameworks, using and creating public datasets for the common good
 * Tie together various models and data sources across organizations and initiatives in a unified framework
-* Abstract prediction and forecasting techniques that can be applied across a range of domains, including climate, scientific endeavor and enterprise use cases
+* Abstract prediction and forecasting techniques that can be applied across a range of domains, including climate and other scientific endeavors, and enterprise use cases
 * Eventually apply AI/ML to wide-scale system analysis, using cross-correlation across different domains to intensify pattern identification and accelerate operational responsiveness.
 
 We expect to apply these general principles first to a well-defined set of open models and practice areas, including network analysis, predictive HW/SW maintenance, and others. This will allow us to test concepts and models at global scale. 
